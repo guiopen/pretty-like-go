@@ -5,7 +5,6 @@
 	"endOfLine": "lf",
 	"jsxSingleQuote": false,
 	"objectWrap": "preserve",
-	"printWidth": 999,
 	"quoteProps": "consistent",
 	"semi": false,
 	"singleAttributePerLine": true,
