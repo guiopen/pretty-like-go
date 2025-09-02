@@ -9,7 +9,6 @@
 	"semi": false,
 	"singleAttributePerLine": true,
 	"singleQuote": false,
-	"tabWidth": 4,
 	"trailingComma": "all",
 	"useTabs": true
 }
